@@ -1,1 +1,1 @@
-![](sitegif.gif)
+![](sitegif.png)
